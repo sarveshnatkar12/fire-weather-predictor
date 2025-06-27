@@ -52,11 +52,20 @@ The model expects the following 9 features:
 git clone https://github.com/<your-username>/Fire-Wheather-Predictor.git
 cd Fire-Wheather-Predictor
 
-2.Install dependencies:
+Install dependencies:
+
+bash
+Copy
+Edit
 pip install -r requirements.txt
 
-3.Run the Flask app:
-python application.py
+Run the Flask app:
 
-4.Open your browser at:
+bash
+Copy
+Edit
+python app.py
+
+Open your browser at:
+
 http://127.0.0.1:5000/predictdata
