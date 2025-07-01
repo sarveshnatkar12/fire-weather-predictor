@@ -60,7 +60,7 @@ The model expects the following 9 features:
 3. **Run the Flask app:**
 
     ```bash
-    python app.py
+    python application.py
     ```
 
 4. **Open your browser at:**
